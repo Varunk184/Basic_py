@@ -64,11 +64,4 @@ conv_fac = 0.621371
 miles = kilometers * conv_fac
 print(format(miles,'0.2f'))
 
-# last basic code of the day
 
-a = int(input())
-b = int(input())
-if a>b:
-    print(a)
-else:
-    print(b)
